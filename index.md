@@ -1,7 +1,8 @@
-PHILOS9 - Symbolic Logic  
-Santa Monica College  
-Summer 2021
-===
+# PHILOS9 - Symbolic Logic  
+## Santa Monica College  
+## Summer 2021
+## Professor Paul Klumpe
+
 
 Notes:
 - [Monday June 21 - Core Concepts in Symbolic Logic](notes/6-21.html)
