@@ -1,10 +1,4 @@
-# PHILOS9 - Symbolic Logic  
-## Santa Monica College  
-## Summer 2021
-## Professor Paul Klumpe
-
-
-Notes:
+# Notes:
 - [Monday June 21 - Core Concepts in Symbolic Logic](notes/6-21.html)
 - [Monday June 22 - Language of Sentential Logic](notes/6-22.html)
 - [Monday June 23 - Language of Sentential Logic pt 2](notes/6-23.html)

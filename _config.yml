@@ -1,3 +1,5 @@
+title: PHILOS9 - Symbolic Logic
+description: Summer 2021
 plugins:
   - jekyll-relative-links
 relative_links:
