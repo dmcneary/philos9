@@ -7,5 +7,6 @@
 - [Wednesday June 30 - Natural Deduction in Sentential Logic](notes/6-30.html)
 - [Thursday July 1 - Natural Deduction Requiring Sub-derivations](notes/7-1.html)
 - [Tuesday July 6 - Strategies for Derivations](notes/7-6.html)
-- [Wednessday July 7 - Rules of Replacemnt & Derived Rules](notes/7-7.html)
-- [Monday July 13 - Introducing Predicate Logic](notes/7-13.html)
+- [Wednesday July 7 - Rules of Replacemnt & Derived Rules](notes/7-7.html)
+- [Tuesday July 13 - Introducing Predicate Logic](notes/7-13.html)
+- [Wednesday July 14 - Restricted and Overlapping Quantifiers](notes/7-13.html)
