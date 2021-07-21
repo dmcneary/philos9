@@ -9,5 +9,6 @@
 - [Tuesday July 6 - Strategies for Derivations](notes/7-6.html)
 - [Wednesday July 7 - Rules of Replacemnt & Derived Rules](notes/7-7.html)
 - [Tuesday July 13 - Introducing Predicate Logic](notes/7-13.html)
-- [Wednesday July 14 - Restricted and Overlapping Quantifiers](notes/7-13.html)
+- [Wednesday July 14 - Restricted and Overlapping Quantifiers](notes/7-14.html)
 - [Monday July 19 - Semantics for Predicate Logic](notes/7-19.md)
+- [Tuesday July 20 - Proving Invalidity in Predicate Logic](notes/7-20.md)
